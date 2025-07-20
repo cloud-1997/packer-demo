@@ -10,5 +10,5 @@ Available commands are:
     inspect         see components of a template
     plugins         Interact with Packer plugins and catalog
     validate        check that a template is valid
-    version         Prints the Packer version
+    version         Prints the Packer versions
 
